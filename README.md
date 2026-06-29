@@ -49,7 +49,7 @@ The dashboard enables stakeholders to make data-driven decisions through interac
 
 ### Home Dashboard
 
-![Dashboard Home](images\dashboard_home.png.png)
+![Dashboard Home](C:\Users\Student\Desktop\Ferry_Analytics\images\dashboard_home.png.png)
 
 ---
 
