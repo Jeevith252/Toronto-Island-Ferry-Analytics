@@ -104,7 +104,7 @@ Ferry_Analytics/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Ferry_Analytics.git
+git clone https://github.com/Jeevith252/Ferry_Analytics.git
 ```
 
 Move into the project directory:
