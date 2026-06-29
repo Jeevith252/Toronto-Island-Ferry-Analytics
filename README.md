@@ -49,7 +49,7 @@ The dashboard enables stakeholders to make data-driven decisions through interac
 
 ### Home Dashboard
 
-![Dashboard Home](images\dashboard_home.png.png")
+![Dashboard Home](images\dashboard_home.png.png)
 
 ---
 
