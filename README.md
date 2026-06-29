@@ -49,19 +49,19 @@ The dashboard enables stakeholders to make data-driven decisions through interac
 
 ### Home Dashboard
 
-![Dashboard Home](images/dashboard_home.png)
+![Dashboard Home](images\dashboard_home.png.png")
 
 ---
 
 ### Analytics Dashboard
 
-![Dashboard Charts](images/dashboard_charts.png)
+![Dashboard Charts](images/dashboard_charts.png.png)
 
 ---
 
 ### Executive Insights
 
-![Dashboard Insights](images/dashboard_insights.png)
+![Dashboard Insights](images/dashboard_insights.png.png)
 
 ---
 
