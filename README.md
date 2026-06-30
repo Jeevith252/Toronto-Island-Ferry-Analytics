@@ -14,7 +14,7 @@ This project analyzes historical Toronto Island Ferry ticket sales and redemptio
 - Weekend vs Weekday traffic
 - Operational insights for ferry scheduling
 
-The dashboard enables stakeholders to make data-driven decisions through interactive visualizations and KPI monitoring.
+The dashboard enables stakeholders to make data-driven decisions through interactive visualizations and KPI monitoring...
 
 ---
 
